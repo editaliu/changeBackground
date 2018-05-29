@@ -1,0 +1,25 @@
+body {
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding: 10%;
+}
+
+.container {
+    background-color: beige;
+    width: 60%;
+    text-align: center;
+    padding: 50px;
+}
+
+.info {
+    color: #5A6268;
+}
+#aaa{
+    width: 70%;
+}
+.form-group {
+    margin-left: 22%;
+}
+#fontit{
+    font-family: 'Fredericka the Great', cursive;
+}
